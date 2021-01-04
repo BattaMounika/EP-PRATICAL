@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students_info>
+<student>   
+<id>1</id>                             
+   <regno>170024</regno>
+   <name>mounika</name>    
+   <avg>92</avg>
+   <dob>15-08-1992</dob>  
+   <time>9:54</time>       
+   <mobileno>9849984900</mobileno>                         
+   <distinction>YES</distinction>
+ </student>
+<student>   
+<id>2</id>                             
+   <regno>170022</regno>
+   <name>sri</name>    
+   <avg>92</avg>
+   <dob>15-08-1992</dob>  
+   <time>9:52</time>       
+   <mobileno>1234567890</mobileno>                         
+   <distinction>YES</distinction>
+ </student>
+ <student>   
+<id>3</id>                             
+   <regno>170023</regno>
+   <name>nisha</name>    
+   <avg>92</avg>
+   <dob>15-08-1992</dob>  
+   <time>9:58</time>       
+   <mobileno>0987654321</mobileno>                         
+   <distinction>YES</distinction>
+ </student>
+ <student>   
+<id>4</id>                             
+   <regno>170029</regno>
+   <name>ram</name>    
+   <avg>92</avg>
+   <dob>15-08-1992</dob>  
+   <time>9:51</time>       
+   <mobileno>9876543210</mobileno>                         
+   <distinction>YES</distinction>
+ </student>
+ <student>   
+<id>5</id>                             
+   <regno>170024</regno>
+   <name>ABC</name>    
+   <avg>92</avg>
+   <dob>15-08-1992</dob>  
+   <time>9:57</time>       
+   <mobileno>9849984900</mobileno>                         
+   <distinction>YES</distinction>
+ </student>
+
+</students_info>
